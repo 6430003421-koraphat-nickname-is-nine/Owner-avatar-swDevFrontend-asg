@@ -13,8 +13,9 @@ export default function Home() {
           justifyContent: "center",
           alignItems: "center",
         }}
-      ></div>
-      <Card />
+      >
+        <Card />
+      </div>
     </main>
   );
 }
